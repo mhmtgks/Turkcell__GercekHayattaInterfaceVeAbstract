@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=6VYDltTF2b4&list=PLqG356ExoxZV1GKedoG_dVYL8AAldKGDr&index=9&t=1276s  Youtube linki üzerindeki videoda yazılan kodun Java Platformuna dönüştürülmüş halidir. EasyWSDL ile Mernis Api si eklenerek oluşturulmuştur. Turkcell Gençlere Yatırım Geleceğe Yazılım 3.0 programı 13.03.2024 tarihli ödevidir.
