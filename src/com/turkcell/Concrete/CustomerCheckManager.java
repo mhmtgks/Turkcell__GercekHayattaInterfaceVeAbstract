@@ -11,8 +11,6 @@ public class CustomerCheckManager implements CustomerCheckService {
     @Override
     public boolean CheckIfRealPerson(Customer customer) {
 
-        TWFKPSPublicSoap Mernis= new TWFKPSPublicSoap();
-
         return true;
     }
 }
